@@ -1,7 +1,13 @@
 
 
-Welcome to X-HAM!
+Welcome to X-HAM's Architectural Katas Submission!
 
+Who are we:
+- Jake Derry
+- Jeremy Howard
+- Gary Bernatonis
+- John Kost
+- Eric Navarro
 
 
 - [Background and Requirements](1.Background-and-Requirements/README.md)
