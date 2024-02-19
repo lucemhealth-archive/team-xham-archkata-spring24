@@ -6,5 +6,5 @@ The Solution is broken down using 3 of the 4 layers of C4: Context, Container an
 - [Container for MonitorMe](4.b-Container-Diagram.md)
 - Component Diagrams
   - [VitalsAPI Container](4.c-Component-Diagram-VitalsAPI.md)
-  - [AlertAPI Container](4.c-Component-Diagram-AlertAPI.md)
-  - [ConfigAPI Container](4.c-Component-Diagram-ConfigAPI.md)
+  - [AlertAPI Container](4.d-Component-Diagram-AlertAPI.md)
+  - [ConfigAPI Container](4.e-Component-Diagram-ConfigAPI.md)
