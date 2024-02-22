@@ -1,3 +1,3 @@
-# Architecture Characteristics
+# Considerations
 
-- [Background](2.a-Architecture-Characteristics.md)
+- [Architecture Characteristics](2.a-Architecture-Characteristics.md)
