@@ -5,3 +5,4 @@
 3. [Create vitals analyzer as a stream with a cache](3.c-Vitals-Analyzer-Stream-With-Cache.md)
 4. [Remove Vitals Analyzer Cache](3.d-Remove-Vitals-Analyzer-Cache.md)
 5. [Create configuration API](3.e-Create-Config-API.md)
+5. [Vitals Datastore](3.f-Vitals-Datastore-Shared.md)
