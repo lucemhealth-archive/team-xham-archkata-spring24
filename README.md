@@ -12,6 +12,6 @@ Welcome to X-HAM's Architectural Katas Submission!
 ## Submission 
 
 - [Background and Requirements](1.Background-and-Requirements/README.md)
-- [Considerations](2.Considerations/README.md)
+- [Archictectural Considerations](2.Architectural-Considerations/README.md)
 - [Architectural Decision Records (ADRs)](3.ADRs/README.md)
 - [Solution](4.Solution/README.md)
