@@ -7,9 +7,9 @@ Welcome to X-HAM's Architectural Katas Submission!
 ## ![Team X-Ham](./images/X-Ham.png)
 - Jake Derry
 - Jeremy Howard
-- Gary Bernatonis
 - John Kost
 - Eric Navarro
+- Gary Bernatonis
 
 ## Submission 
 
