@@ -2,7 +2,7 @@
 
 1. [Vitals Device Connectivity](3.a-Vitals-Device-Connection.md)
 2. [Vitals Shared Datastore](3.b-Vitals-Datastore-Shared.md)
-3. [Cassandra Cluster for Vitals Persistence](3.c-Using-Cassandra-Cluster-For-Vitals-Persistance.md)
+3. [Cassandra Cluster for Vitals Persistence](3.c-Using-Cassandra-Cluster-For-Vitals-Persistence.md)
 4. [Security Implementation](3.d-Security-Implementation.md)
 5. [Vitals Analzyer Stream Cache](3.e-Vitals-Analyzer-Stream-With-Cache.md)
 6. [Actor Pattern for Vitals Read](3.f-Using-Actor-Pattern-For-Vitals-Reading.md)
